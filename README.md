@@ -1,4 +1,4 @@
-- 👋 Hi, sou @LucasPereira2304
+- 👋 Hi, i'm @LucasPereira2304
 - 👀 I’m interested in ... data science e inteligência de negócios
 - 🌱 I’m currently learning ... data science
 - 💞️ I’m looking to collaborate on ...
